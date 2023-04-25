@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "bot24_7",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "gamerbros40K6.aternos.me",
+    "port": 22575,
+    "version": "1.16.5"
   },
 
   "position": {
